@@ -1,0 +1,22 @@
+[project]
+name = "docling-onnxtr"
+version = "0.1.0"
+description = "Docling integration with the OnnxTR OCR engine and OpenCLIP text embedding pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "docling==2.90.0",
+    "docling-ocr-onnxtr[cpu]==0.2.1",
+    "torch",
+    "open_clip_torch",
+    "pillow",
+]
+
+[project.optional-dependencies]
+gpu = [
+    "docling-ocr-onnxtr[gpu]==0.2.1",
+]
+
+[tool.uv]
+package = false
+

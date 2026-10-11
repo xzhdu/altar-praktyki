@@ -1,0 +1,5 @@
+docling==2.90.0
+docling-ocr-onnxtr[cpu]==0.2.1
+torch
+open_clip_torch
+pillow

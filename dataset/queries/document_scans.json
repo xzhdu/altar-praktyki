@@ -1,0 +1,92 @@
+{
+    "document_scan_0.jpg": [
+        "rachunek medyczny Lilavati Hospital dla pacjenta Amit Singh",
+        "wyciąg z konta pacjenta Lilavati Hospital z dnia 22 maja 2026",
+        "rozliczenie leczenia szpitalnego Amit Singh ubezpieczenie HDFC ERGO",
+        "faktura szpitalna za Emergency Room Level 3 i IV Therapy"
+    ],
+    "document_scan_1.jpg": [
+        "wyciąg z konta pacjenta Vikram Reddy szpital Manipal Hospital",
+        "rachunek medyczny za badanie siatkówki cukrzycowej i pobyt w szpitalu Vikram Reddy",
+        "rozliczenie leczenia cukrzycy typu 2 E11.9 ubezpieczenie HDFC ERGO",
+        "faktura za usługi farmaceutyczne i materiały medyczne Manipal Hospital $418"
+    ],
+    "document_scan_2.jpg": [
+        "rachunek za badanie EKG i panel metaboliczny BMP Pooja Joshi",
+        "wyciąg z konta pacjenta Lilavati Hospital nadciśnienie tętnicze I10",
+        "rozliczenie ubezpieczenia Star Health dla pacjenta Pooja Joshi",
+        "faktura szpitalna Lilavati Hospital dla numeru MRN-8492018 kwota do zapłaty 23 USD"
+    ],
+    "document_scan_3.jpg": [
+        "wyciąg z konta pacjenta Neha Gupta Apollo Health City",
+        "rozliczenie leczenia cukrzycy HbA1c i badania siatkówki ubezpieczenie ICICI Lombard",
+        "rachunek medyczny Apollo Health City dla MRN-2019384 z kwotą należną 225 USD",
+        "faktura za wizytę lekarską i terapię dożylną IV Neha Gupta"
+    ],
+    "document_scan_4.jpg": [
+        "rachunek medyczny Rahul Verma szpital Lilavati Hospital",
+        "faktura za pobyt w szpitalu i badanie HbA1c ubezpieczenie ICICI Lombard",
+        "wyciąg z konta pacjenta z rozpoznaniem cukrzyca typu 2 MRN-4859201",
+        "rozliczenie leczenia Rahul Verma kwota do zapłaty 516 USD"
+    ],
+    "document_scan_5.jpg": [
+        "rozliczenie szpitalne CMC Vellore pacjent Rohan Sharma",
+        "rachunek za panel lipidowy i pobranie krwi hiperlipidemia E78.5",
+        "wyciąg z konta pacjenta Rohan Sharma ubezpieczenie Star Health",
+        "faktura za usługi medyczne Christian Medical College MRN-8472910"
+    ],
+    "document_scan_6.jpg": [
+        "rachunek Apollo Health City dla Vikram Reddy badanie CMP i HbA1c",
+        "wyciąg z konta pacjenta ubezpieczenie Star Health MRN-3920184",
+        "rozliczenie leczenia cukrzycy i badania siatkówki kwota do zapłaty 107 USD",
+        "faktura za panel CMP i terapię IV Vikram Reddy Apollo Health City"
+    ],
+    "document_scan_7.jpg": [
+        "rachunek CMC Vellore RTG kolana i ćwiczenia terapeutyczne Amit Singh",
+        "wyciąg z konta pacjenta choroba zwyrodnieniowa stawu kolanowego M17.9",
+        "rozliczenie ubezpieczenia Religare Health Insurance dla MRN-1039485",
+        "faktura za hospitalizację i rentgen kolana Amit Singh kwota 672 USD"
+    ],
+    "document_scan_8.jpg": [
+        "rachunek medyczny Amit Singh CMC Vellore ubezpieczenie Max Bupa",
+        "rozliczenie leczenia cukrzycy typu 2 i badania CMP pacjent Amit Singh",
+        "wyciąg z konta pacjenta Christian Medical College kwota do zapłaty 650 USD",
+        "faktura za terapię IV i badanie siatkówki MRN-1039485"
+    ],
+    "document_scan_9.jpg": [
+        "faktura za zastrzyk dostawowy i SOR w CMC Vellore Pooja Joshi",
+        "wyciąg z konta pacjenta zwyrodnienie stawu kolanowego M17.9 Max Bupa",
+        "rozliczenie wizyty na oddziale ratunkowym i fizjoterapii Pooja Joshi",
+        "rachunek medyczny za nakłucie stawu i terapię IV MRN-8492018"
+    ],
+    "document_scan_10.jpg": [
+        "karta wypisowa i podsumowanie kliniczne Vikram Reddy zwyrodnienie kolana",
+        "instrukcje wypisowe ze szpitala CMC Vellore dr Jonathan H Carter",
+        "podsumowanie leczenia szpitalnego zastrzyk dostawowy steroidowy Vikram Reddy",
+        "dokumentacja medyczna wypis ze szpitala MRN-3920184 leki Meloxicam Ibuprofen"
+    ],
+    "document_scan_11.jpg": [
+        "karta wypisowa i podsumowanie kliniczne Karan Malhotra cukrzyca",
+        "instrukcje wypisowe Apollo Health City dla pacjenta Karan Malhotra",
+        "wypis szpitalny leczenie cukrzycy typu 2 E11.9 Sitagliptin Metformin",
+        "podsumowanie leczenia szpitalnego MRN-3019284 dr Jonathan H Carter"
+    ],
+    "document_scan_12.jpg": [
+        "karta wypisowa CMC Vellore Karan Malhotra zwyrodnienie kolana",
+        "podsumowanie leczenia ortopedycznego Karan Malhotra MRN-3019284",
+        "wypis ze szpitala Christian Medical College diagnoza M17.9",
+        "dokumentacja wypisowa dr Jonathan H Carter leki Meloxicam Ibuprofen"
+    ],
+    "document_scan_13.jpg": [
+        "karta wypisowa Lilavati Hospital Rohan Sharma ostre zapalenie oskrzeli",
+        "podsumowanie leczenia szpitalnego Rohan Sharma MRN-8472910 J20.9",
+        "wypis ze szpitala zapalenie oskrzeli leki Azithromycin Albuterol",
+        "dokumentacja medyczna wypisowa Lilavati Hospital dr Jonathan H Carter"
+    ],
+    "document_scan_14.jpg": [
+        "karta wypisowa Fortis Escorts Heart Institute Rahul Verma",
+        "podsumowanie leczenia ostrego zapalenia oskrzeli Rahul Verma J20.9",
+        "wypis szpitalny Fortis Escorts MRN-4859201 leki Albuterol Azithromycin",
+        "dokumentacja wypisowa ze szpitala dr Jonathan H Carter Rahul Verma"
+    ]
+}
