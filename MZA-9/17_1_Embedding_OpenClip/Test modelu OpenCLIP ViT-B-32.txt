@@ -1,0 +1,4 @@
+Test modelu OpenCLIP ViT-B-32
+Wymiar embeddingu: 512
+Wielkość modelu: 577.08 MB
+Zużycie pamięci RAM programu: 944.30 MB

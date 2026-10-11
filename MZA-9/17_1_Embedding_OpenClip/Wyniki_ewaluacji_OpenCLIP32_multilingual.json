@@ -1,0 +1,1778 @@
+[
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_0.jpg",
+    "query": "wykres punktowy z osią Genetic Distance oraz Geographic Distance",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 91.97,
+    "search_time_ms": 5.59
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_0.jpg",
+    "query": "wykres dwuwymiarowy z czarnymi okręgami i skośną linią prostą",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.63,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_0.jpg",
+    "query": "wykres zależności dwóch zmiennych z linią przechodzącą przez układ współrzędnych",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 92.47,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_0.jpg",
+    "query": "wykres punktowy z czarno-białymi osiami i wartościami liczbowymi",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 56.0,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_1.jpg",
+    "query": "kolorowa macierz kwadratowa z etykietami SNP na obu osiach",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 54.45,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_1.jpg",
+    "query": "wykres typu heatmap z przekątną białą linią i skalą od 0.00 do 1.00",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.86,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_1.jpg",
+    "query": "mapa ciepła z paletą barw od niebieskiego do czerwonego",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 59.14,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_1.jpg",
+    "query": "kwadratowa mapa kolorów przedstawiająca wartości korelacji z etykietami tekstowymi",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 54.1,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_2.jpg",
+    "query": "wykres liniowy z osiami Mean A1C (%) oraz Month",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.05,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_2.jpg",
+    "query": "wykres zmian w czasie z trzema liniami i legendą Age Group na dole",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 59.23,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_2.jpg",
+    "query": "wykres z trzema seriami danych dla grup wiekowych poniżej 50, 50-65 i powyżej 65 lat",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.4,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_2.jpg",
+    "query": "wykres przebiegu wartości na osi Y od miesiąca 0 do 30",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.34,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_3.jpg",
+    "query": "mapa obszarowa z osią współrzędnych, różą wiatrów N i skalą kilometrową",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.27,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_3.jpg",
+    "query": "mapa z żółtą granicą Jincheng Jiang boundary i zielonymi punktami Household",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.12,
+    "search_time_ms": 0.12
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_3.jpg",
+    "query": "mapa geograficzna z legendą przedziałów procentowych w odcieniach brązu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.07,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_3.jpg",
+    "query": "mapa terenu z zaznaczonymi rzekami, drogami i obszarami procentowymi",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.82,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_4.jpg",
+    "query": "wykres punktowy z osią Y opisaną jako CT (%) i osią X jako Other methods (%)",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.34,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_4.jpg",
+    "query": "wykres porównawczy z symbolami plusów i czarnych kropek oraz przerywaną linią y=x",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 62.02,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_4.jpg",
+    "query": "wykres z legendą zawierającą oznaczenia SbST oraz CladHC",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 62.96,
+    "search_time_ms": 0.13
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_4.jpg",
+    "query": "wykres dwuwymiarowy ze skalą procentową od 0 do 100 na obu osiach",
+    "correct_result_position": 6,
+    "embedding_generation_time_ms": 60.57,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_5.jpg",
+    "query": "poziomy wykres słupkowy z osiami Nocturnal Symptoms i Weighted Proportion",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 61.37,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_5.jpg",
+    "query": "wykres porównawczy słupków wzorzystych dla kategorii Current Asthma i No Asthma",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.64,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_5.jpg",
+    "query": "wykres słupkowy z czterema objawami: Chest Tightness, Cough, Shortness of Breath, Wheezing",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.49,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_5.jpg",
+    "query": "wykres z poziomymi paskami i legendą na dole strony",
+    "correct_result_position": 9,
+    "embedding_generation_time_ms": 56.5,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_6.jpg",
+    "query": "trójwymiarowy wykres kołowy podzielony na kolorowe wycinki",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.33,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_6.jpg",
+    "query": "diagram kołowy 3D z legendą po prawej stronie zawierającą etykiety tekstowe",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.71,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_6.jpg",
+    "query": "wykres kołowy pokazujący proporcje różnych kategorii funkcjonalnych",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.38,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_6.jpg",
+    "query": "kolorowy diagram w kształcie koła ze spisem kategorii po prawej stronie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.91,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_7.jpg",
+    "query": "wykres dwuwymiarowy z osiami x i y dzielący płaszczyznę na trzy obszary",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.03,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_7.jpg",
+    "query": "diagram z kolorowymi strefami opisanymi jako 0 AGTs, 1 AGT oraz 3 AGTs",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.83,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_7.jpg",
+    "query": "wykres obszarowy z białą, pomarańczową i niebieską sekcją",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 56.73,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_7.jpg",
+    "query": "wykres ze strefami wartości w układzie współrzędnych od 0 do 0.3 na osi X",
+    "correct_result_position": 4,
+    "embedding_generation_time_ms": 54.36,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_8.jpg",
+    "query": "wykres punktowy z poziomymi odcinkami błędu na skali logarytmicznej Odds Ratio",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.61,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_8.jpg",
+    "query": "wykres z pionową linią odniesienia na wartości 1.0 oraz kategoriami Lag0 do Lag3",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 57.77,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_8.jpg",
+    "query": "wykres z podziałem na grupy All, Indigenous oraz Non-Indigenous",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.8,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_8.jpg",
+    "query": "wykres wartości statystycznych z punktami i przedziałami niepewności",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.74,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_9.jpg",
+    "query": "wykres punktowy typu Manhattan plot z osią X chromosomal position i osią Y -log10(p)",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.4,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_9.jpg",
+    "query": "wykres z pionowymi kolorowymi słupkami punktów dla chromosomów od 1 do 22",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.1,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_9.jpg",
+    "query": "wykres z etykietami tekstowymi w ramkach i strzałkami wskazującymi wybrane punkty",
+    "correct_result_position": 9,
+    "embedding_generation_time_ms": 59.73,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "chart_9.jpg",
+    "query": "wykres wielokolorowych punktów ułożonych w kolumny numerowane od 1 do 22",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 54.65,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_2.pdf",
+    "query": "Faktura nr 51109306 wystawiona dnia 02/02/2024 przez TechVision Distributors Pvt Ltd[cite: 22]",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 58.38,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_2.pdf",
+    "query": "Faktura dla klienta Kolkata Electronics Hub na kwotę brutto 264 140,80 INR[cite: 22]",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 55.78,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_2.pdf",
+    "query": "Dokument zakupu 7 sztuk Samsung Galaxy Watch6 Classic 47mm z podatkiem VAT 10%[cite: 22]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 55.45,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_2.pdf",
+    "query": "Faktura VAT dla firmy z Kolkaty o numerze podatkowym Tax Id 595-39-6952[cite: 22]",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 59.61,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_1.pdf",
+    "query": "Faktura nr 51109389 wystawiona dla Jodhpur Gadget Market z dnia 11/01/2024[cite: 23]",
+    "correct_result_position": 7,
+    "embedding_generation_time_ms": 56.95,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_1.pdf",
+    "query": "Dokument sprzedaży elektroniki zawierający OnePlus 12, Xiaomi 14 Pro oraz Samsung Galaxy Tab S9[cite: 23]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 57.81,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_1.pdf",
+    "query": "Faktura opiewająca na łączną kwotę brutto 1 942 396,50 INR ze stawką VAT 10%[cite: 23]",
+    "correct_result_position": 10,
+    "embedding_generation_time_ms": 56.67,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_1.pdf",
+    "query": "Zamówienie hurtowe na kamery GoPro Hero 12, głośniki JBL Flip 6 i słuchawki Galaxy Buds2 Pro[cite: 23]",
+    "correct_result_position": 13,
+    "embedding_generation_time_ms": 60.05,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_3.pdf",
+    "query": "Faktura nr 51109310 z dnia 03/08/2023 dla klienta Surat Digital Mall[cite: 24]",
+    "correct_result_position": 5,
+    "embedding_generation_time_ms": 57.75,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_3.pdf",
+    "query": "Dokument zakupu 7 laptopów Dell XPS 13 oraz 10 telewizorów LG 43 inch 4K UHD[cite: 24]",
+    "correct_result_position": 7,
+    "embedding_generation_time_ms": 58.06,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_3.pdf",
+    "query": "Faktura sprzedaży opiewająca na kwotę netto 1 209 340,00 INR z podatkiem VAT 120 934,00 INR[cite: 24]",
+    "correct_result_position": 4,
+    "embedding_generation_time_ms": 58.18,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_3.pdf",
+    "query": "Zamówienie obejmujące myszy Logitech MX Master 3S oraz dyski Western Digital 2TB[cite: 24]",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 138.31,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_4.pdf",
+    "query": "Faktura nr 51109328 wystawiona 09/10/2023 dla Guwahati Electronics City[cite: 25]",
+    "correct_result_position": 7,
+    "embedding_generation_time_ms": 55.16,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_4.pdf",
+    "query": "Dokument obejmujący zegarki Garmin Fenix 7 Solar, aparat Sony Alpha ZV-E10 i tablet Lenovo Tab P12 Pro[cite: 25]",
+    "correct_result_position": 12,
+    "embedding_generation_time_ms": 55.19,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_4.pdf",
+    "query": "Faktura na kwotę brutto 801 685,50 INR wydana dla odbiorcy z Guwahati w stanie Assam[cite: 25]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 55.12,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_4.pdf",
+    "query": "Zakup sprzętu elektronicznego w tym słuchawek Sony WH-1000XM5 oraz monitora LG UltraGear 27 inch[cite: 25]",
+    "correct_result_position": 14,
+    "embedding_generation_time_ms": 56.75,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_5.pdf",
+    "query": "Faktura nr 51109329 wystawiona dnia 08/11/2023 dla Dehradun Tech Store[cite: 26]",
+    "correct_result_position": 9,
+    "embedding_generation_time_ms": 59.47,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_5.pdf",
+    "query": "Dokument sprzedaży 7 telewizorów Samsung 65 inch QLED 4K oraz 8 par Apple AirPods Pro 2nd Gen[cite: 26]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 58.55,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_5.pdf",
+    "query": "Faktura opiewająca na sumę brutto 1 599 285,60 INR z podatkiem VAT 10%[cite: 26]",
+    "correct_result_position": 7,
+    "embedding_generation_time_ms": 58.01,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_5.pdf",
+    "query": "Zamówienie z Dehradun na monitory Dell 27 inch 4K, dyski WD 2TB oraz ładowarki Belkin MagSafe[cite: 26]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 58.77,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_6.pdf",
+    "query": "Faktura nr 51109386 z dnia 28/07/2023 dla odbiorcy Hubli Digital Store[cite: 27]",
+    "correct_result_position": 6,
+    "embedding_generation_time_ms": 55.45,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_6.pdf",
+    "query": "Dokument zakupu 4 telewizorów Sony Bravia 55 inch 4K OLED oraz 9 monitorów Dell 27 inch[cite: 27]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 58.57,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_6.pdf",
+    "query": "Faktura na kwotę brutto 1 714 793,30 INR z kwotą podatku VAT 155 890,30 INR[cite: 27]",
+    "correct_result_position": 6,
+    "embedding_generation_time_ms": 57.92,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_6.pdf",
+    "query": "Zamówienie obejmujące 10 sztuk Apple AirPods Pro 2nd Gen oraz zegarki Garmin Fenix 7 Solar[cite: 27]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 56.65,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_7.pdf",
+    "query": "Faktura nr 51109383 wystawiona 03/11/2023 dla Thiruvananthapuram Gadgets[cite: 28]",
+    "correct_result_position": 10,
+    "embedding_generation_time_ms": 58.01,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_7.pdf",
+    "query": "Dokument zakupu produktów Apple: iPad Air M1, iPhone 15 Pro oraz iPhone 15 128GB[cite: 28]",
+    "correct_result_position": 5,
+    "embedding_generation_time_ms": 56.72,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_7.pdf",
+    "query": "Faktura opiewająca na kwotę brutto 1 966 126,80 INR z podatkiem VAT 178 738,80 INR[cite: 28]",
+    "correct_result_position": 9,
+    "embedding_generation_time_ms": 55.17,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_7.pdf",
+    "query": "Zamówienie z Kerali obejmujące 8 zegarków Samsung Galaxy Watch6 Classic oraz 10 tabletów iPad Air M1[cite: 28]",
+    "correct_result_position": 10,
+    "embedding_generation_time_ms": 54.18,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_8.pdf",
+    "query": "Faktura nr 51109391 wystawiona dnia 19/05/2023 dla Gwalior Tech World[cite: 29]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 57.97,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_8.pdf",
+    "query": "Dokument zakupu 6 korpusów aparatów Canon EOS R50 oraz 2 telewizorów Samsung 65 inch QLED[cite: 29]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 57.79,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_8.pdf",
+    "query": "Faktura opiewająca na łączną kwotę brutto 776 261,20 INR z podatkiem VAT 70 569,20 INR[cite: 29]",
+    "correct_result_position": 5,
+    "embedding_generation_time_ms": 57.97,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_8.pdf",
+    "query": "Faktura VAT wystawiona na klienta z Gwalior w stanie Madhya Pradesh o Tax Id 978-98-7395[cite: 29]",
+    "correct_result_position": 4,
+    "embedding_generation_time_ms": 56.72,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_9.pdf",
+    "query": "Faktura nr 51109398 z dnia 24/01/2024 dla klienta Salem Electronics Point[cite: 30]",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.38,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_9.pdf",
+    "query": "Dokument zakupu 6 zestawów aparatów Sony Alpha ZV-E10 Mirrorless Kit 16-50[cite: 30]",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 52.98,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_9.pdf",
+    "query": "Faktura sprzedaży z kwotą netto 389 886,00 INR oraz brutto 428 874,60 INR[cite: 30]",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.14,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_9.pdf",
+    "query": "Faktura VAT wystawiona dla odbiorcy w Salem w stanie Tamil Nadu z NIP 401-71-2201[cite: 30]",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.43,
+    "search_time_ms": 0.16
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_10.pdf",
+    "query": "Faktura nr 51109400 z dnia 22/02/2024 wystawiona dla Guntur Smart Devices[cite: 31]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 58.94,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_10.pdf",
+    "query": "Dokument zakupu 9 słuchawek Samsung Galaxy Buds2 Pro Graphite oraz 1 słuchawek Boat Rockerz 550[cite: 31]",
+    "correct_result_position": 5,
+    "embedding_generation_time_ms": 60.22,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_10.pdf",
+    "query": "Faktura opiewająca na kwotę brutto 149 840,90 INR z naliczonym podatkiem VAT 10%[cite: 31]",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 56.23,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "file_10.pdf",
+    "query": "Zamówienie sprzętu audio dla firmy z Guntur o numerze podatkowym Tax Id 979-10-3605[cite: 31]",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 55.91,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Ekran powitalny aplikacji mPassbook banku Punjab National Bank",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 61.09,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Czerwona ręka trzymająca telefon na żółtym tle w aplikacji bankowej",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.32,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Punjab National Bank mPassbook ekran startowy",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.75,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Żółto-bordowy interfejs aplikacji mobilnej PNB",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.04,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Aplikacja bankowa z napisem Welcome to mPassbook",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.79,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_1.jpg",
+    "query": "Ekran logowania PNB mPassbook z ikonami finansowymi w tle",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.22,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_6.jpg",
+    "query": "Aplikacja do śledzenia kroków statystyki dzienne",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.66,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_6.jpg",
+    "query": "Licznik kroków 107 cel 10000 wyres wykres słupkowy",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.93,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_6.jpg",
+    "query": "Podsumowanie aktywności czas dystans kalorie fitness app",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.07,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_6.jpg",
+    "query": "Interfejs aplikacji pedometr z czerwoną ikoną celu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.13,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_11.jpg",
+    "query": "NEET Physics menu główne aplikacji edukacyjnej",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.81,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_11.jpg",
+    "query": "Aplikacja do nauki fizyki tryby ćwiczeń i testy",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.54,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_11.jpg",
+    "query": "Kafelki z ikonami Practice Mode Speed Test Play Game",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.64,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_11.jpg",
+    "query": "NEET Physics Notes DPP Challenge Mode interfejs",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.27,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_10.jpg",
+    "query": "Aplikacja Housing szukanie nieruchomości w Hissar",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 55.62,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_10.jpg",
+    "query": "Interfejs aplikacji nieruchomości opcje Buy i Rent",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.88,
+    "search_time_ms": 0.12
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_10.jpg",
+    "query": "Housing app profil użytkownika Aahnik ekran główny",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.06,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_10.jpg",
+    "query": "Fioletowy ekran startowy serwisu z ogłoszeniami mieszkań",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.01,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_8.jpg",
+    "query": "Aplikacja treningowa plan ćwiczeń na brzuch Training Plan",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.01,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_8.jpg",
+    "query": "Kategorie treningu Lose Belly Fat Rock Hard Abs Six Pack",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.85,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_8.jpg",
+    "query": "Plan treningowy poziom Beginner Intermediate Advanced",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.72,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_8.jpg",
+    "query": "Interfejs aplikacji fitness z planami na mięśnie brzucha",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 56.44,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_7.jpg",
+    "query": "Aplikacja OLX w Kolkata ogłoszenia samochodowe",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.31,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_7.jpg",
+    "query": "Przeglądanie kategorii OLX Autos Properties Mobiles",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.64,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_7.jpg",
+    "query": "Oferty sprzedaży samochodów Toyota Innova i Etios Cross",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.84,
+    "search_time_ms": 0.09
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_7.jpg",
+    "query": "Ekran główny aplikacji do ogłoszeń lokalnych OLX",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.42,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_2.jpg",
+    "query": "Aplikacja TakaTak odtwarzacz wideo z bocznym menu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.28,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_2.jpg",
+    "query": "Interfejs aplikacji wideo z paskiem głośności i przyciskami reakcji",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.09,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_2.jpg",
+    "query": "Pasek nawigacji TakaTak Local Video Games Music",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.87,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_2.jpg",
+    "query": "Ekran odtwarzania wideo w aplikacji społecznościowej",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.43,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_5.jpg",
+    "query": "Aplikacja do śledzenia zdrowia Timeline Last 30 Days",
+    "correct_result_position": 6,
+    "embedding_generation_time_ms": 57.13,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_5.jpg",
+    "query": "Połącz z Google Fit ekran aplikacji diety i treningu",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 54.14,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_5.jpg",
+    "query": "Zakładki Steps Workouts i Nutrients w aplikacji zdrowotnej",
+    "correct_result_position": 8,
+    "embedding_generation_time_ms": 55.98,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_5.jpg",
+    "query": "Różowy interfejs aplikacji fitness Home Recipes Plans Progress",
+    "correct_result_position": 20,
+    "embedding_generation_time_ms": 58.4,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_4.jpg",
+    "query": "Aplikacja ixigo wyszukiwanie lotów Durgapur New Delhi",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.64,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_4.jpg",
+    "query": "Rezerwacja biletów lotniczych One Way Round Trip",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.44,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_4.jpg",
+    "query": "Interfejs aplikacji ixigo Flights z ofertami i zniżkami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.07,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_4.jpg",
+    "query": "Wyszukiwarka połączeń lotniczych i biletów",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.97,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_13.jpg",
+    "query": "Artykuł The Times of India wycofanie Rogera Federer z French Open",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.47,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_13.jpg",
+    "query": "Portal informacyjny z artykułem sportowym i zdjęciem tenisisty",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.26,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_13.jpg",
+    "query": "Strona internetowa z wiadomościami tenisowymi i reklamami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.2,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_13.jpg",
+    "query": "Roger Federer French Open artykuł prasowy online",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.28,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_3.jpg",
+    "query": "Pulpit smartfona z ikonami aplikacji na tle planety",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.65,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_3.jpg",
+    "query": "Ekran główny telefonu z ikonami Telegram Paytm PicsArt KineMaster",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.1,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_3.jpg",
+    "query": "Aplikacje mobilne na czarnym tle z widokiem na Marsa",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.63,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_3.jpg",
+    "query": "Zrzut ekranu pulpitu Androida z folderami i ikonami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.02,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_14.jpg",
+    "query": "Aplikacja informacyjna FTWeekend artykuł o wyborach w Niemczech",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.0,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_14.jpg",
+    "query": "Nagłówek prasowy Merkel's party surges in German state vote",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.3,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_14.jpg",
+    "query": "Artykuł Financial Times o porozumieniu podatkowym G7",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.06,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_14.jpg",
+    "query": "Portal informacyjny z artykułami politycznymi i gospodarczymi",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 59.63,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_9.jpg",
+    "query": "Aplikacja OLX ogłoszenie sprzedaży mieszkania w Pune",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.01,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_9.jpg",
+    "query": "Oferta nieruchomości 1 BHK flat w cenie 68 50 000 INR",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.1,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_9.jpg",
+    "query": "Zdjęcie salonu w mieszkaniu z przyciskami Chat i Make Offer",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.81,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_9.jpg",
+    "query": "Szczegóły ogłoszenia mieszkania na wynajem lub sprzedaż",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 55.18,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_12.jpg",
+    "query": "Ekran ustawiania hasła Set Password w aplikacji mobilnej",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.78,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_12.jpg",
+    "query": "Pole wprowadzania hasła z klawiaturą ekranową i motywem sportowym",
+    "correct_result_position": 7,
+    "embedding_generation_time_ms": 55.29,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_12.jpg",
+    "query": "Aplikacja mobilna z formularzem rejestracji i akceptacją regulaminu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.52,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_12.jpg",
+    "query": "Interfejs tworzenia konta z opcją WhatsApp alerts",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.94,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_15.jpg",
+    "query": "Aplikacja z tapetami grafika z postacią w masce pandy",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.74,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_15.jpg",
+    "query": "Zielona neonowa tapeta na telefon z motywem 3 Stripes",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.75,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_15.jpg",
+    "query": "Interfejs wyboru tapety z przyciskami Favorite Set Download",
+    "correct_result_position": 33,
+    "embedding_generation_time_ms": 55.74,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "SS_15.jpg",
+    "query": "Postać w dresie i masce pandy na tle dymu i neonów",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.93,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_1.jpg",
+    "query": "Brązowa kura chodząca po wiejskim podwórku",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.4,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_1.jpg",
+    "query": "Ptak domowy kura domowa na wiejskiej ścieżce",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.0,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_1.jpg",
+    "query": "Kura z czerwonym grzebieniem na ziemi",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.56,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_1.jpg",
+    "query": "Drobiowa kura na tle piaszczystego podłoża",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.82,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_2.jpg",
+    "query": "Brązowa koza stojąca na zielonej trawie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.05,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_2.jpg",
+    "query": "Koza domowa uwiązana na sznurku na łące",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.7,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_2.jpg",
+    "query": "Zwierzę gospodarskie koza z małymi rogami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.32,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_2.jpg",
+    "query": "Koza na tle zielonych krzewów i roślinności",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.31,
+    "search_time_ms": 0.13
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_3.jpg",
+    "query": "Pies rasy Australian Cattle Dog siedzący na kafelkach",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.61,
+    "search_time_ms": 0.12
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_3.jpg",
+    "query": "Uśmiechnięty pies Blue Heeler z otwartym pyskiem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.81,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_3.jpg",
+    "query": "Szaroczarny pies w kolorowej obroży w domu",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 60.49,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_3.jpg",
+    "query": "Pies pasterski siedzący w jasnym przedpokoju",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.77,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_4.jpg",
+    "query": "Czarny labrador leżący na brązowym dywaniku",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.94,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_4.jpg",
+    "query": "Pies rasy Labrador Retriever patrzący w górę",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.39,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_4.jpg",
+    "query": "Czarny pies wypoczywający w pomieszczeniu na posłaniu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.31,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "animal_4.jpg",
+    "query": "Stary czarny labrador z siwiejącym pyszczkiem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.63,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Bike_1.jpg",
+    "query": "Dziecięcy rower Arcoiris niebiesko żółty z kółkami bocznymi",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.45,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Bike_1.jpg",
+    "query": "Mały rowerek dla dziecka z żółtym siodełkiem i pedałami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.95,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Bike_1.jpg",
+    "query": "Rower dziecięcy z kółkami pomocniczymi w pokoju",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.8,
+    "search_time_ms": 0.12
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Bike_1.jpg",
+    "query": "Niebiesko-żółty rowerek dla malucha przy ścianie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.48,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_1.jpg",
+    "query": "Srebrny samochód Mercedes-Benz Klasa C na parkingu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.03,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_1.jpg",
+    "query": "Mercedes z tablicą rejestracyjną CEY 70623",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.06,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_1.jpg",
+    "query": "Srebrny sedan zaparkowany na słonecznym placu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.32,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_1.jpg",
+    "query": "Auto marki Mercedes przed budynkiem w słoneczny dzień",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 61.07,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_2.jpg",
+    "query": "Czerwony Volkswagen Polo zaparkowany przy drodze",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.97,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_2.jpg",
+    "query": "Auto z tablicą rejestracyjną CA 987-090",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.23,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_2.jpg",
+    "query": "Czerwony hatchback marki Volkswagen na piaszczystym podłożu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.87,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_2.jpg",
+    "query": "Widok z przodu czerwonego samochodu VW Polo",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.52,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_3.jpg",
+    "query": "Czerwony samochód BMW kabriolet na podjeździe",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.32,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_3.jpg",
+    "query": "Czerwone auto sportowe z brytyjską rejestracją LL13 YMW",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.61,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_3.jpg",
+    "query": "BMW Serii 3 z jasną skórzaną tapicerką przed domem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.58,
+    "search_time_ms": 0.08
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "car_3.jpg",
+    "query": "Czerwony kabriolet zaparkowany na podwórku z kostki",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.31,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_1.jpg",
+    "query": "Czerwono-biała kurtka bejsbolówka wisząca na drzwiach",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.63,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_1.jpg",
+    "query": "Męska kurtka typu varsity jacket z logo na piersi",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.9,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_1.jpg",
+    "query": "Czerwona bluza zapinana na zatrzaski z białymi rękawami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.35,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_1.jpg",
+    "query": "Sportowa kurtka akademicka na wieszaku przy drewnianych drzwiach",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 53.69,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_2.jpg",
+    "query": "Ubrania i kurtki wiszące na wieszaku na drzwiach",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.52,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_2.jpg",
+    "query": "Beżowy płaszcz i swetry zawieszone na drzwiach w pokoju",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.17,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_2.jpg",
+    "query": "Wieszak drzwiowy z odzieżą wierzchnią i torbą",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.85,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_2.jpg",
+    "query": "Garderoba na drzwiach ze stosikiem złożonych ubrań obok",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.74,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_3.jpg",
+    "query": "Jasna męska kamizelka w drobny wzór i czarna marynarka",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.51,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_3.jpg",
+    "query": "Elegancka kamizelka bez rękawów leżąca obok czarnej marynarki",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.12,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_3.jpg",
+    "query": "Męska odzież wizytowa rozłożona na płaskiej powierzchni",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.08,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "clothes_3.jpg",
+    "query": "Tradycyjna kamizelka ze stójką i ciemna marynarka garniturowa",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.18,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_1.jpg",
+    "query": "Czarny skórzany fotel rozkładany z dwoma jasnymi poduszkami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.94,
+    "search_time_ms": 0.12
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_1.jpg",
+    "query": "Elegancki fotel wypoczynkowy ze skórzaną tapicerką",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.78,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_1.jpg",
+    "query": "Czarny fotel z poduszkami stojący na jasnych kafelkach",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.75,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_1.jpg",
+    "query": "Wygodny skórzany fotel z zagłówkiem do salonu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.38,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_2.jpg",
+    "query": "Zielona trzyosobowa sofa we wzory stojąca w salonie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.69,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_2.jpg",
+    "query": "Klasyczna zielona kanapa ze wzorzystą tapicerką",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.32,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_2.jpg",
+    "query": "Wygodna sofa ze zwijanymi podłokietnikami na terakocie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.35,
+    "search_time_ms": 0.09
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "furniture_2.jpg",
+    "query": "Zielony mebel wypoczynkowy przy białej ścianie",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 54.59,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_1.jpg",
+    "query": "Parterowy beżowy dom z brązowymi drzwiami i płaskim dachem",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 58.87,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_1.jpg",
+    "query": "Mały dom jednorodzinny ze srebrnym samochodem z boku",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 58.93,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_1.jpg",
+    "query": "Beżowy budynek mieszkalny z numerem 18967 na elewacji",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 59.71,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_1.jpg",
+    "query": "Prosty dom na piaszczystej działce w słoneczny dzień",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.6,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_2.jpg",
+    "query": "Nowoczesny biały dom z czerwoną bramą garażową i balkonem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.26,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_2.jpg",
+    "query": "Dwupiętrowy budynek mieszkalny z czerwonym samochodem z przodu",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 62.54,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_2.jpg",
+    "query": "Biała elewacja domu z czarnymi meblami ogrodowymi na tarasie",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 62.24,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_2.jpg",
+    "query": "Czerwony hatchback zaparkowany przed nowoczesnym domem",
+    "correct_result_position": 3,
+    "embedding_generation_time_ms": 62.28,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_3.jpg",
+    "query": "Piętrowy dom o pomarańczowej elewacji za zielonym żywopłotem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 60.38,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_3.jpg",
+    "query": "Nowoczesny dom jednorodzinny z brązowym ogrodzeniem i bramą",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.44,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_3.jpg",
+    "query": "Srebrny samochód zaparkowany na podjeździe przed domem",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 54.51,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_3.jpg",
+    "query": "Dom z dużym balkonem i gęstym żywopłotem od frontu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.36,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_4.jpg",
+    "query": "Nowoczesny biało-szary dom z ciemnym skośnym dachem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.5,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_4.jpg",
+    "query": "Dwupiętrowy budynek o współczesnej architekturze z dużymi oknami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 56.47,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_4.jpg",
+    "query": "Elewacja nowoczesnego domu jednorodzinnego z szarymi akcentami",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 59.15,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "house_4.jpg",
+    "query": "Współczesny dom z zadbanym obejściem w pochmurny dzień",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.3,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_1.jpg",
+    "query": "Duży jasnobrązowy pluszowy miś siedzący na biurku",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.81,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_1.jpg",
+    "query": "Pluszowa zabawka miś stojąca obok karty z napisem Reception",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 53.73,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_1.jpg",
+    "query": "Wielki pluszowy niedźwiedź w domowym wnętrzu",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.55,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_1.jpg",
+    "query": "Maskotka brązowego misia siedząca przy ścianie",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 58.14,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_2.jpg",
+    "query": "Pluszowy miś w różowej koszulce z napisem Seni Seviyorum",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 58.94,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_2.jpg",
+    "query": "Brązowy niedźwiadek maskotka siedzący na wzorzystych tkaninach",
+    "correct_result_position": 2,
+    "embedding_generation_time_ms": 55.46,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_2.jpg",
+    "query": "Uroczy pluszowy miś oparty o jasną ścianę",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 53.64,
+    "search_time_ms": 0.07
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "toy_2.jpg",
+    "query": "Pluszowa zabawka miś w ubranku z tureckim napisem",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.03,
+    "search_time_ms": 0.1
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Water_sink_1.jpg",
+    "query": "Srebrna chromowana bateria kuchenna z płynącą wodą",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 61.16,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Water_sink_1.jpg",
+    "query": "Strumień wody wypływający z kranu do zlewu stalowego",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.86,
+    "search_time_ms": 0.11
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Water_sink_1.jpg",
+    "query": "Bateria zlewozmywakowa na tle płytek mozaikowych",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 57.93,
+    "search_time_ms": 0.06
+  },
+  {
+    "model_name": "OpenCLIP xlm-roberta-base-ViT-B-32",
+    "image_id": "Water_sink_1.jpg",
+    "query": "Woda lejąca się z nowoczesnego kranu w kuchni",
+    "correct_result_position": 1,
+    "embedding_generation_time_ms": 55.51,
+    "search_time_ms": 0.07
+  }
+]

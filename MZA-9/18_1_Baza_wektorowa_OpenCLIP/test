@@ -1,0 +1,16 @@
+from qdrant_client import QdrantClient
+
+# Łączymy się z Twoją bazą na dysku
+client = QdrantClient(path=r"C:\Users\mateu\Desktop\Baza_wektorowa\qdrant_db")
+
+# Pobieramy pierwszy zindeksowany punkt (ID: 1)
+point = client.retrieve(
+    collection_name="image_embeddings", ids=[3], with_payload=True, with_vectors=True
+)[0]
+
+print("--- POBRANY REKORD Z BAZY QDRANT ---")
+print(f"1. ID:                  {point.id}")
+print(f"2. Nazwa pliku:          {point.payload['file_name']}")
+print(f"3. Długość embeddingu:  {len(point.vector)} liczb float")
+print(f"4. Nazwa modelu:        {point.payload['model_name']}")
+print(f"5. Typ reprezentacji:   {point.payload['representation_type']}")

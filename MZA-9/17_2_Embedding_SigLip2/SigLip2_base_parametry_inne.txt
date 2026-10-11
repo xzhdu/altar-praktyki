@@ -1,0 +1,4 @@
+Model: SigLip2
+• Zużycie pamięci RAM: 1316.75 MB
+• Wymiar wektora (embedding dim): 768
+• Rozmiar modelu: 375.19 M parametrów (1431.23 MB)

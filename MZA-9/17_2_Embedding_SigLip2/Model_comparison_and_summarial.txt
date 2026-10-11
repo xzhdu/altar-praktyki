@@ -1,0 +1,33 @@
+=================================================================
+ PORÓWNANIE MODELI: SigLIP 2 FixRes vs SigLIP 2 NaFlex
+=================================================================
+Metryka                        | FixRes (224px) | NaFlex (Native)
+-----------------------------------------------------------------
+Przetworzone zapytania         | 222            | 222           
+Top-1 Accuracy (Dokładność)    | 51.8%          | 48.6%
+Top-3 Accuracy                 | 73.0%          | 70.7%
+Średnia pozycja (im mniej tym lepiej) | 3.72           | 4.62
+Śr. czas generowania tekstu (ms) | 52.53 ms       | 52.86 ms
+Śr. czas przeszukiwania bazy (ms) | 0.08 ms       | 0.08 ms
+=================================================================
+
+PRZYKŁADY, GDZIE NaFlex WYGRAŁ Z FixRes:
+  • Plik: chart_0.jpg
+    Zapytanie: 'wykres punktowy z osią Genetic Distance oraz Geographic Distance'
+    Pozycja w FixRes: 2 ➔ Pozycja w NaFlex: 1 ✅
+
+  • Plik: chart_0.jpg
+    Zapytanie: 'wykres dwuwymiarowy z czarnymi okręgami i skośną linią prostą'
+    Pozycja w FixRes: 3 ➔ Pozycja w NaFlex: 1 ✅
+
+  • Plik: chart_1.jpg
+    Zapytanie: 'kolorowa macierz kwadratowa z etykietami SNP na obu osiach'
+    Pozycja w FixRes: 2 ➔ Pozycja w NaFlex: 1 ✅
+
+  • Plik: chart_1.jpg
+    Zapytanie: 'kwadratowa mapa kolorów przedstawiająca wartości korelacji z etykietami tekstowymi'
+    Pozycja w FixRes: 2 ➔ Pozycja w NaFlex: 1 ✅
+
+  • Plik: chart_4.jpg
+    Zapytanie: 'wykres porównawczy z symbolami plusów i czarnych kropek oraz przerywaną linią y=x'
+    Pozycja w FixRes: 5 ➔ Pozycja w NaFlex: 3 ✅

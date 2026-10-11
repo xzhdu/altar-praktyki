@@ -1,0 +1,21 @@
+[project]
+name = "23-full-component"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "MateuszSiodlak1", email = "mateuszx2008@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "open-clip-torch>=3.3.0",
+    "pillow>=12.3.0",
+    "torch>=2.13.0",
+]
+
+[project.scripts]
+23-full-component = "23_full_component:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13.0"]
+build-backend = "uv_build"

@@ -1,0 +1,4 @@
+Test modelu OpenCLIP xlm-roberta-base-ViT-B-32
+Wymiar embeddingu: 512
+Wielkość modelu: 1396.64 MB
+Zużycie pamięci RAM programu: 3493.43 MB

@@ -1,0 +1,15 @@
+======================================================================
+POROWNANIE MODELI: SigLIP 2 FixRes vs Multilingual OpenCLIP
+======================================================================
+Metryka                             | SigLIP 2 FixRes | Multilingual OpenCLIP
+----------------------------------------------------------------------
+Liczba zapytan                      | 222             | 222            
+Top-1 Accuracy (%)                  | 51.8%           | 68.5%
+Top-3 Accuracy (%)                  | 73.0%           | 84.2%
+Top-5 Accuracy (%)                  | 82.0%           | 87.4%
+Srednia pozycja (im nizsza tym lepiej) | 3.72            | 2.43
+Sr. czas generowania tekstu (ms)    | 52.53 ms        | 57.93 ms
+Sr. czas wyszukiwania w bazie (ms)  | 0.08 ms        | 0.11 ms
+======================================================================
+
+Wyzsza dokladnosc: Multilingual OpenCLIP (przewaga +16.7% w Top-1 Accuracy)

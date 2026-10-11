@@ -1,0 +1,1211 @@
+[
+  {
+    "file_name": "SS_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_1.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zdjęcie ekranu aplikacji mobilnej Punjab National Bank (PNB) przedstawiające stronę powitalną usługi mPassbook. Na obrazie widoczny jest logo banku, ikona aplikacji oraz komunikat powitalny. Tło zawiera graficzne elementy związane z usługami bankowymi.",
+      "visibleText": [
+        "Punjab National Bank",
+        "mPassbook",
+        "Welcome to mPassbook",
+        "pn"
+      ],
+      "keywords": [
+        "Punjab National Bank",
+        "PNB",
+        "mPassbook",
+        "bankowość mobilna",
+        "aplikacja bankowa",
+        "finanse",
+        "usługi bankowe"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_10.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_10.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu aplikacji mobilnej związanej z nieruchomościami. Interfejs pokazuje powitanie użytkownika (Aahnik), lokalizację w Hissarze oraz opcje wyszukiwania mieszkań do kupna i wynajęcia. Widoczne są również sugestie, takie jak 'Ready to Move-In', oraz ikony menu głównego: Search, Pay Rent, Deals, Edge, Profile. Ponadto widnieje komunikat z agentem nieruchomości Yahan Search Khatam Karo oraz polecenie do rozpoczęcia nowego wyszukiwania.",
+      "visibleText": [
+        "HOUSING",
+        "Hi Aahnik",
+        "Finding in Hissar",
+        "Yahan Search Khatam Karo",
+        "Choose to start new search",
+        "Buy > Be a proud owner",
+        "Rent > No strings attached",
+        "Try: 2 bhk apartment",
+        "New",
+        "Featured Collections",
+        "Categories suited to your property needs",
+        "Ready to Move-In",
+        "Post your property",
+        "Favourites",
+        "Search",
+        "Pay Rent",
+        "Deals",
+        "Edge",
+        "Profile"
+      ],
+      "keywords": [
+        "nieruchomości",
+        "wyszukiwanie mieszkań",
+        "kupno",
+        "wynajem",
+        "Hissar",
+        "aplikacja mobilna",
+        "Ready to Move-In",
+        "2 bhk apartment",
+        "agent nieruchomości",
+        "menu główne",
+        "profile",
+        "oferty",
+        "Post your property"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_11.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_11.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu aplikacji edukacyjnej poświęconej fizyce dla egzaminu NEET. Wyświetla menu główne z różnymi trybami nauki i ćwiczeń, takimi jak notatki, tryb praktyczny, tryb treningowy, test prędkości, tryb wyzwań oraz opcje gry. Widoczny jest również poziom postępu użytkownika.",
+      "visibleText": [
+        "NEET Physics",
+        "Notes",
+        "DPP",
+        "Practice Mode",
+        "Training Mode",
+        "Challenge Mode",
+        "Speed Test",
+        "Play Game",
+        "Play By Category",
+        "Current level : 1"
+      ],
+      "keywords": [
+        "NEET",
+        "fizyka",
+        "notatki",
+        "praktyka",
+        "trening",
+        "wyzwanie",
+        "test prędkości",
+        "gra edukacyjna",
+        "kategorie",
+        "poziom 1",
+        "DPP",
+        "aplikacja edukacyjna"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_12.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_12.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu przedstawiający ekran rejestracji w aplikacji mobilnej, gdzie użytkownik musi ustawić hasło. Wymagania dotyczące hasła to minimum jedna litera i jedna cyfra. Poniżej pola do wprowadzenia hasła znajdują się wskazówki dotyczące bezpieczeństwa oraz warunki korzystania z aplikacji. Na dole widoczny jest wirtualny klawiatura z częściowo wprowadzonym hasłem 'pr1b2n' oraz flagi krajowe.",
+      "visibleText": [
+        "Set Password",
+        "Minimum 1 alphabet and 1 number",
+        "Next",
+        "Avoid a password people can guess",
+        "Do not share your password",
+        "Use numbers and alphabets only no special character",
+        "I agree to get WhatsApp alerts",
+        "By Creating an account, you agree to the Terms & Conditions",
+        "pr1b2n"
+      ],
+      "keywords": [
+        "ustawienie hasła",
+        "rejestracja",
+        "aplikacja mobilna",
+        "bezpieczeństwo",
+        "warunki korzystania",
+        "klawiatura wirtualna",
+        "WhatsApp",
+        "litera i cyfra"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_13.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_13.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu artykułu sportowego z The Times of India, informującego o rezygnacji Rogera Federera z udziału we French Open z myślą o przygotowaniach do Wimbledonu. Zawiera zdjęcie tenisisty opuszczającego kort oraz fragmenty tekstu opisujące sytuację.",
+      "visibleText": [
+        "THE TIMES OF INDIA",
+        "OPEN APP",
+        "SPORTS",
+        "Roger Federer withdraws from French Open with Wimbledon in mind",
+        "Reuters / Updated: Jun 6, 2021, 22:04 IST",
+        "Roger Federer leaves the court after winning against Dominik Koepfer. (AFP Photo)",
+        "PARIS: Former world number one Roger Federer, who is targeting a record 21st Grand Slam title at Wimbledon, withdrew from the French Open on Sunday, a day after winning a tough third-round match, opting to save himself for the grass-court season.",
+        "Over-The-Counter Ayurvedic Pill To Sharpen The Memory!",
+        "Noocube",
+        "KNOW MORE",
+        "DO YOU KNOW",
+        "Open TOI App",
+        "esercorn"
+      ],
+      "keywords": [
+        "Roger Federer",
+        "French Open",
+        "Wimbledon",
+        "tenis",
+        "sport",
+        "Reuters",
+        "Grand Slam",
+        "Dominik Koepfer",
+        "PARIS",
+        "The Times of India"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_14.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_14.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu artykułów z aplikacji FT Weekend (Financial Times). Pierwszy artykuł dotyczy wyborów w Niemczech, gdzie partia kanclerz Merkel, CDU, odnosi sukces w głosowaniu w jednym z landów, pokonując skrajną prawicę. Drugi artykuł poświęcony jest porozumieniu podatkowemu G7, przedstawiając je jako punkt wyjścia do globalnej reformy podatkowej.",
+      "visibleText": [
+        "FT Weekend",
+        "German election",
+        "Merkel’s party surges in German state vote, beating far right",
+        "Win is boost for Christian Democrat Armin Laschet and his bid to become next chancellor",
+        "NEW",
+        "News in-depth International tax",
+        "G7 tax deal is ‘starting point’ on road to global reform",
+        "2 HOURS AGO"
+      ],
+      "keywords": [
+        "wybory niemieckie",
+        "CDU",
+        "Angela Merkel",
+        "Armin Laschet",
+        "skrajna prawica",
+        "G7",
+        "reformy podatkowe",
+        "Financial Times",
+        "kanclerz Niemiec"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_15.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_15.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zdjęcie przedstawia maskotkę w stylizacji panda z futurystycznym, neonowym wyglądem. Postać ma zielone, błyszczące oczy i ubrana jest w sportowy strój z elementami graffiti, w tym czarno-białe pasy i napisami. Tło jest zielonkawe z efektami świetlnymi i abstrakcyjnymi kształtami. Na dole ekranu widoczne są trzy ikony z opisami: Favorite, Set, Download.",
+      "visibleText": [
+        "STRIPES THE BRAND"
+      ],
+      "keywords": [
+        "panda",
+        "maszkotka",
+        "neon",
+        "futurystyczny",
+        "graffiti",
+        "sportowy strój",
+        "cyberpunk",
+        "abstrakcyjne tło",
+        "ikony interfejsu",
+        "telefon"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_2.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu z aplikacji społecznościowej TakaTaka, pokazujący sekcję trendu z przyciskami interakcji na prawym boku oraz informacje o aktualizacji aplikacji. Widoczne są ikony interakcji: odtwarzanie, polubienia, komentarze i udostępnienia wraz z liczbami oddziaływań. Na dole widoczne są zakładki: Local, Video, Games, TakaTaka, Music.",
+      "visibleText": [
+        "FOLLOWING",
+        "TRENDING",
+        "401.3K",
+        "1.8K",
+        "124.1K",
+        "Update App",
+        "Unlock new features",
+        "UPDATE NOW",
+        "Local",
+        "Video",
+        "Games",
+        "TakaTaka",
+        "Music"
+      ],
+      "keywords": [
+        "TakaTaka",
+        "trending",
+        "interakcje",
+        "odtworzenia",
+        "polubienia",
+        "komentarze",
+        "udostępnienia",
+        "aktualizacja",
+        "aplikacja",
+        "media społecznościowe"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_3.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu z pulpitów telefonu komórkowego przedstawiający ikony różnych aplikacji. Widoczne są aplikacje związane z komunikacją, płatnościami, edycją zdjęć i wideo, a także różne narzędzia i gry. Tło pulpitów stanowi obraz przypominający powierzchnię Marsa.",
+      "visibleText": [
+        "Rewardr",
+        "Paytm",
+        "Codashop",
+        "Camera",
+        "ShareChat",
+        "Telegram",
+        "VK",
+        "BOOYAH!",
+        "PicsArt",
+        "Resso",
+        "KineMaster",
+        "NbliK",
+        "FieWin",
+        "Telefon (domyślna ikona)",
+        "WhatsApp",
+        "Kalkulator (domyślna ikona)",
+        "Aplikacja aparatu (domyślna ikona)"
+      ],
+      "keywords": [
+        "aplikacje",
+        "telefon",
+        "Mars",
+        "komunikacja",
+        "płatności",
+        "edytor zdjęć",
+        "edytor wideo",
+        "gry",
+        "PicsArt",
+        "KineMaster",
+        "Telegram",
+        "WhatsApp",
+        "Paytm"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_4.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_4.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu aplikacji do rezerwacji lotów, pokazujący formularz wyszukiwania biletów lotniczych z trasą Durgapur (RDP) do Nowego Delhi (DEL). Wyświetla również informacje o promocjach, ofertach związanych z COVID-19 oraz korzyściach płynących z korzystania z aplikacji ixigo, takich jak możliwość zwrotu pełnej kwoty.",
+      "visibleText": [
+        "0 Cancel Fee",
+        "Save ₹2021",
+        "Save ₹500",
+        "Trains",
+        "Flights",
+        "Buses",
+        "One Way",
+        "Round Trip",
+        "RDP Durgapur",
+        "DEL New Delhi",
+        "Tue, 08 Jun",
+        "1 Traveller • Economy",
+        "Search Flights",
+        "Offers",
+        "Flight Travel and COVID-19: A Complete Guide",
+        "airline policies & travel restrictions",
+        "Why ixigo?",
+        "Claim Full Refund"
+      ],
+      "keywords": [
+        "lotnisko",
+        "rezerwacja lotów",
+        "Durgapur",
+        "Nowy Delhi",
+        "COVID-19",
+        "promocje",
+        "zwrot pieniędzy",
+        "bilety lotnicze",
+        "ixigo",
+        "podróżowanie",
+        "polityki linii lotniczych",
+        "restrykcje podróżne",
+        "Ekonom",
+        "1 podróżny",
+        "1L"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_5.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_5.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu aplikacji mobilnej pokazujący sekcję Timeline z ostatnich 30 dni. Użytkownik nie dodał celu kroków i treningów oraz nie połączony jest z Google Fit, co uniemożliwia wyświetlenie wykresów i historii aktywności.",
+      "visibleText": [
+        "Timeline Last 30 Days",
+        "STEPS & WORKOUTS",
+        "NUTRIENTS",
+        "You have not added your steps and workout goal",
+        "Note :- Graphs will not be shown if you have not added workout or steps goal",
+        "ADD",
+        "Go To Settings and Connect to Google Fit for view Timeline"
+      ],
+      "keywords": [
+        "Timeline",
+        "30 dni",
+        "kroki",
+        "treningi",
+        "cel",
+        "wykresy",
+        "Google Fit",
+        "ustawienia",
+        "aktywność",
+        "aplikacja mobilna"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_6.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_6.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu aplikacji do monitorowania aktywności fizycznej pokazujący dzienną statystykę kroków z datą 30/05/2021. Wyświetla wykres aktywności w ciągu dnia, liczbę kroków (107), cel kroków (10000), czas trwania aktywności (2 minuty i 17 sekund), pokonaną odległość (64 metry) oraz spalone kalorie (4 kcal).",
+      "visibleText": [
+        "Steps",
+        "30/05/2021",
+        "Step count",
+        "107",
+        "Goal: 10000 steps",
+        "CHANGE GOAL",
+        "2M 17S",
+        "Duration",
+        "64M",
+        "Distance",
+        "4 CALS",
+        "Calories"
+      ],
+      "keywords": [
+        "aktywność fizyczna",
+        "licznik kroków",
+        "cel kroków",
+        "statystyka dnia",
+        "czas aktywności",
+        "odległość",
+        "kalorie",
+        "wykres aktywności",
+        "aplikacja fitness"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_7.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_7.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu z aplikacji OLX w wersji mobilnej, pokazujący sekcję rekomendacji dla lokalizacji Haltu, Kolkata. Wyświetlane są ogłoszenia o sprzedaży samochodów oraz telefonów komórkowych. Widoczne są dwie rekomendacje samochodów marki Toyota (Innova i Etios Cross) oraz dwa ogłoszenia dotyczące telefonów. Na górze widoczne są kategorie do przeglądania: OLX Autos (CARS), Properties, Mobiles oraz Jobs. Poniżej znajdują się ikony menu: Home, Chats, Sell, My Ads i Account.",
+      "visibleText": [
+        "Haltu, Kolkata",
+        "Find Cars, Mobile Phones and more...",
+        "Browse categories",
+        "OLX AUTOS (CARS)",
+        "PROPERTIES",
+        "MOBILES",
+        "JOBS",
+        "Fresh recommendations",
+        "FEATURED",
+        "₹ 5,75,000",
+        "TOYOTA INNOVA 2.5 GX (...",
+        "2011 - 135,000 km",
+        "TAX 2026",
+        "HAZRA ROAD, KOLKATA",
+        "₹ 4,50,000",
+        "TOYOTA ETIOS CROSS 1.5 (...",
+        "2017 - 32,000 km",
+        "HAZRA ROAD, KOLKATA",
+        "HOME",
+        "CHATS",
+        "SELL",
+        "MY ADS",
+        "ACCOUNT"
+      ],
+      "keywords": [
+        "OLX",
+        "samochody",
+        "Toyota Innova",
+        "Toyota Etios Cross",
+        "telefony",
+        "Kolkata",
+        "Hazra Road",
+        "cena",
+        "kilometraż",
+        "ogłoszenia",
+        "sprzedaż",
+        "kategorie",
+        "rekomendacje",
+        "aplikacja mobilna"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_8.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_8.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu prezentujący trzy poziomy treningowe: dla początkujących, średnio zaawansowanych i zaawansowanych. Każdy poziom ma przypisany cel treningowy: 'Lose Belly Fat' dla początkujących, 'Rock Hard Abs' dla średnio zaawansowanych oraz 'Six Pack Abs' dla zaawansowanych.",
+      "visibleText": [
+        "TRAINING PLAN",
+        "BEGINNER",
+        "LOSE BELLY FAT",
+        "INTERMEDIATE",
+        "ROCK HARD ABS",
+        "ADVANCED",
+        "SIX PACK ABS"
+      ],
+      "keywords": [
+        "trening",
+        "plan treningowy",
+        "początkujący",
+        "zaawansowany",
+        "brzuch",
+        "abs",
+        "utrata tłuszczu",
+        "brzuch mięśniowy",
+        "szóstka",
+        "fitness"
+      ]
+    }
+  },
+  {
+    "file_name": "SS_9.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\app_screenshots\\SS_9.jpg",
+    "analysis": {
+      "type": "screenshot",
+      "summary": "Zrzut ekranu z aplikacji prezentujący ofertę sprzedaży 1-pokojowego mieszkania na parterze w Bund Garden, Pune. Cena mieszkania wynosi 68,50,000 rupii, powierzchni 750 stóp kwadratowych, z jednym sypialnią i jedną łazienką. Widoczne są również zdjęcia wnętrza mieszkania oraz opcje interakcji takie jak 'Chat' i 'Make Offer'.",
+      "visibleText": [
+        "₹ 68,50,000",
+        "1 bhk flat for sale on ground floor",
+        "1 Bds - 1 Ba - 750 ft2",
+        "BUND GARDEN, PUNE",
+        "TODAY",
+        "Details",
+        "TYPE: Apartments",
+        "BEDROOMS: 1",
+        "Chat",
+        "Make Offer"
+      ],
+      "keywords": [
+        "mieszkanie",
+        "sprzedaż",
+        "1 pokojowe",
+        "Pune",
+        "Bund Garden",
+        "750 stóp kwadratowych",
+        "1 sypialnia",
+        "1 łazienka",
+        "68,50,000 rupii",
+        "parter",
+        "aplikacja nieruchomości"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_0.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_0.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia zależność między odległością geograficzną a odległością genetyczną. Na osi X znajduje się odległość geograficzna (w pewnej jednostce), natomiast na osi Y odległość genetyczna. Punkty danych są rozrzucone, a wykres zawiera także linię trendu, która sugeruje ujemną korelację między tymi dwoma zmiennymi. W miarę wzrostu odległości geograficznej, odległość genetyczna maleje.",
+      "visibleText": [],
+      "keywords": [
+        "odległość geograficzna",
+        "odległość genetyczna",
+        "korelacja",
+        "wykres punktowy",
+        "trend",
+        "genetyka",
+        "geografia"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_1.jpg",
+    "analysis": {
+      "type": "diagram",
+      "summary": "Wizualizacja przedstawia mapę interakcji między różnymi mutacjami genetycznymi (SNP - Single Nucleotide Polymorphisms) oraz inwersjami (IVS - Intron Variant Sites). Diagram wykorzystuje skalę kolorów od niebieskiego (0.00) do czerwonego (1.00), aby pokazać stopień korelacji lub interakcji między poszczególnymi mutacjami. Na osiach znajdują się oznaczenia konkretnych mutacji, takich jak SNP+1361A>G, IVS+1343delA itd. Diagonalne pasy czerwone wskazują na pełną korelację danej mutacji ze sobą samą, podczas gdy inne kolory (zielony, żółty) wskazują na różne stopnie interakcji.",
+      "visibleText": [
+        "SNP+1361A>G",
+        "IVS+1343delA",
+        "IVS+172C>T",
+        "SNP-175C>T",
+        "SNP-271A>G",
+        "SNP-409T>A",
+        "SNP-523T>G",
+        "SNP-586C>T",
+        "SNP-891C>T",
+        "SNP-1157C>T",
+        "SNP-1267G>C",
+        "SNP-1474T>C",
+        "SNP-1633T>C",
+        "SNP-1702C>T",
+        "SNP-1765C>T",
+        "SNP-1873C>G",
+        "SNP-2344G>T",
+        "SNP-2349G>A",
+        "SNP-2486A>G",
+        "SNP-2815T>A",
+        "SNP-3141C>T",
+        "SNP-3514T>C",
+        "SNP-3522A>G",
+        "SNP-3640G>A",
+        "SNP-3687C>T"
+      ],
+      "keywords": [
+        "mutacje genetyczne",
+        "SNP",
+        "korelacja genetyczna",
+        "interakcje genetyczne",
+        "mapa interakcji",
+        "inwersje genetyczne",
+        "wizualizacja danych",
+        "biologia molekularna",
+        "genetyka"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_2.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia zmiany średniego poziomu HbA1c (w procentach) w ciągu 30 miesięcy dla trzech grup wiekowych: osób poniżej 50 lat, osób w wieku 50-65 lat oraz osób powyżej 65 lat. Wszystkie grupy wykazują początkowy spadek poziomu HbA1c w pierwszych miesiącach, a następnie stabilizację z niewielkimi wahaniami. Najwyższe wartości początkowo obserwuje się u grupy poniżej 50 lat, podczas gdy grupa powyżej 65 lat wykazuje najniższe wartości w większości okresów pomiarowych.",
+      "visibleText": [
+        "Mean A1C (%)",
+        "Month",
+        "< 50 years",
+        "50-65 years",
+        "> 65 years"
+      ],
+      "keywords": [
+        "HbA1c",
+        "poziom cukru we krwi",
+        "diabetes",
+        "grupy wiekowe",
+        "wykres zmian",
+        "medycyna",
+        "badania kliniczne",
+        "miesięczne monitorowanie"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_3.jpg",
+    "analysis": {
+      "type": "diagram",
+      "summary": "Mapa przedstawiająca dystrybucję procentową jakiegoś wskaźnika (prawdopodobnie związane z gęstością lub intensywnością) w obrębie regionu Jincheng Jiang. Obszary są pokolorowane według czterech kategorii procentowych: 60-70%, 70-80%, 80-90% i 80-100%. Na mapie zaznaczono także granice gospodarstw domowych oraz sieć dróg i rzek. Linia niebieska wydaje się oznaczać główną rzekę lub szlak wodny, a zielone punkty symbolizują lokalizacje gospodarstw domowych.",
+      "visibleText": [
+        "Household",
+        "Jincheng Jiang boundary",
+        "60-70%",
+        "70-80%",
+        "80-90%",
+        "80-100%"
+      ],
+      "keywords": [
+        "mapa",
+        "Jincheng Jiang",
+        "gospodarstwa domowe",
+        "procentowa dystrybucja",
+        "sieć dróg",
+        "sieć wodna",
+        "geografia",
+        "kategorie procentowe",
+        "granice administracyjne"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_4.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_4.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres porównuje skuteczność dwóch metod (oznaczonych jako SbST i CladHC) w procentach. Oś X reprezentuje wyniki innych metod w procentach, zaś oś Y przedstawia wyniki dla metody CT w procentach. Punkty reprezentowane są przez kropki (SbST) i plusy (CladHC). Wykres zawiera również linię referencyjną (y=x), która wskazuje na idealną zgodność między metodami. Punkty SbST skupiają się głównie w górnej prawej części wykresu, co może sugerować lepszą skuteczność tej metody w porównaniu do innych.",
+      "visibleText": [
+        "SbST",
+        "CladHC",
+        "CT (%)",
+        "Other methods (%)"
+      ],
+      "keywords": [
+        "porównanie metod",
+        "skuteczność SbST",
+        "skuteczność CladHC",
+        "CT",
+        "wykres procentowy",
+        "analiza metod biologicznych",
+        "dokładność",
+        "konsystencja"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_5.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_5.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia proporcje nocnych objawów astmy (wagowo) u osób z astmą w porównaniu do osób bez astmy. Porównywane objawy to duszność w klatce piersiowej, kaszel, uczucie duszności oraz świszczący oddech. Osoby z astmą wykazują znacznie wyższe proporcje tych objawów w nocy niż osoby bez astmy.",
+      "visibleText": [
+        "Nocturnal Symptoms",
+        "Chest Tightness",
+        "Cough",
+        "Shortness of Breath",
+        "Wheezing",
+        "Current Asthma",
+        "No Asthma"
+      ],
+      "keywords": [
+        "nocne objawy",
+        "astma",
+        "duszność w klatce piersiowej",
+        "kaszel",
+        "uczucie duszności",
+        "świszczący oddech",
+        "proporcje wagowe",
+        "porównanie",
+        "wykres",
+        "objawy zdrowotne"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_6.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_6.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres kołowy przedstawiający proporcje różnych funkcji lub lokalizacji białek lub innych cząsteczek komórkowych. Każdy segment kolorem kodu reprezentuje inną kategorię, taką jak sekrecja i asocjacja z błoną, modyfikacja i degradacja białek, wiązanie kwasów nukleinowych, cytokszkielet, cykl komórkowy, biosynteza, enzymy, transport z nośnikiem oraz funkcje nieznane.",
+      "visibleText": [],
+      "keywords": [
+        "wykres kołowy",
+        "komórka",
+        "sekrecja",
+        "membrana",
+        "modyfikacja białek",
+        "degradacja",
+        "kwas nukleinowy",
+        "cytokszkielet",
+        "cykl komórkowy",
+        "biosynteza",
+        "enzymy",
+        "transport",
+        "nośnik",
+        "funkcje nieznane"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_7.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_7.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia zależność między zmiennymi x i y, podzielony na trzy strefy oznaczające różną liczbę AGT (Autonomous Guided Transports lub podobnych jednostek). Obszar w kolorze niebieskim oznacza 3 AGT, obszar pomarańczowy oznacza 1 AGT, a pozostała część wykresu (biała) oznacza brak AGT (0 AGT). Krzywa graniczna dzieli obszary, sugerując zmienne warunki optymalności lub możliwości dla różnych ilości AGT.",
+      "visibleText": [
+        "0 AGTs",
+        "1 AGT",
+        "3 AGTs",
+        "x",
+        "y"
+      ],
+      "keywords": [
+        "wykres",
+        "AGT",
+        "zmienne x i y",
+        "strefy optymalności",
+        "autonomiczne systemy transportowe",
+        "granica fazowa",
+        "parametryczne obszary"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_8.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_8.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia szacunki stosunku szans (odds ratio) dla hospitalizacji z powodu schorzeń układu oddechowego w różnych opóźnieniach (lag0, lag1, lag2, lag3) dla trzech grup: wszystkich hospitalizacji, hospitalizacji osób rdzennych oraz hospitalizacji osób nierdzennych. Osie przedstawiają wartości na skali logarytmicznej, gdzie wartość odniesienia wynosi 1.0. Punkty na wykresie pokazują szacunki, a linie poziome reprezentują przedziały ufności dla tych szacunków.",
+      "visibleText": [
+        "All respiratory admissions",
+        "Indigenous",
+        "Non-Indigenous",
+        "Lag0",
+        "Lag1",
+        "Lag2",
+        "Lag3",
+        "All",
+        "Odds Ratio (log scale)"
+      ],
+      "keywords": [
+        "szacunek",
+        "stosunek szans",
+        "hospitalizacje",
+        "schorzenia układu oddechowego",
+        "opóźnienia",
+        "grupy demograficzne",
+        "rdzenni",
+        "nierdzenni",
+        "wykres",
+        "logarytm",
+        "przedziały ufności"
+      ]
+    }
+  },
+  {
+    "file_name": "chart_9.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\charts\\chart_9.jpg",
+    "analysis": {
+      "type": "chart",
+      "summary": "Wykres przedstawia analizę statystyczną związaną z pozycjami chromosomowymi. Na osi X zaznaczono numery chromosomów od 1 do 22, natomiast na osi Y znajduje się wartość -log10(p), która reprezentuje znaczenie statystyczne (p-wartość) różnych markerów lub mutacji. Punkty na wykresie są kolorowo kodowane i oznaczają różne typy lipidów lub związane z nimi geny. Wykres zawiera również etykiety dla konkretnych genów lub lipidów, takich jak PARK2, PLEK, ANKRD30A, FADS1, LIPC oraz inne, które są zaznaczone strzałkami i opisami.",
+      "visibleText": [
+        "Lys, PARK2",
+        "PC aa C36:4, FADS1",
+        "SM C14:0, PLEK",
+        "SMs, ANKRD30A",
+        "PE aa C38:6, LIPC"
+      ],
+      "keywords": [
+        "genetyka",
+        "chromosomy",
+        "lipidy",
+        "statystyka",
+        "p-wartość",
+        "geny",
+        "mutacje",
+        "biologia molekularna",
+        "analiza genomowa"
+      ]
+    }
+  },
+  {
+    "file_name": "animal_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\animal_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia dorosłą kury w naturalnym środowisku, prawdopodobnie w ogrodzie lub na wolnym wybiegu. Ptak ma charakterystyczne upierzenie z brązowymi i białymi plamami, czerwoną skórą na głowie oraz żółtym dziobem. Tło zdjęcia składa się z ziemi, trochę roślinności i odpadków organicznych.",
+      "visibleText": [],
+      "keywords": [
+        "kura",
+        "ptak",
+        "upierzenie",
+        "naturalne środowisko",
+        "ogród",
+        "rolnictwo",
+        "dziób",
+        "skóra",
+        "ziemia",
+        "roślinność"
+      ]
+    }
+  },
+  {
+    "file_name": "animal_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\animal_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia dorosłą kozę o brązowo-beżowym ubarwieniu, stojącą na trawiastym terenie. Zwierzę ma krótkie rogi, jest związane delikatnym sznurem wokół szyi i patrzy w kierunku obiektywu. Tło zdjęcia tworzą zielone krzewy i drzewa, co wskazuje na naturalne, zielone środowisko.",
+      "visibleText": [],
+      "keywords": [
+        "koza",
+        "trawiasty teren",
+        "naturalne środowisko",
+        "brązowe ubarwienie",
+        "krzewy",
+        "drzewa",
+        "sznur",
+        "zwierzęta gospodarskie"
+      ]
+    }
+  },
+  {
+    "file_name": "animal_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\animal_3.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia psa rasy przypominającej Australian Cattle Dog. Zwierzę stoi na jasnym podłożu, prawdopodobnie w pomieszczeniu z białymi ścianami i podłogą z jasnych płyt. Pies ma charakterystyczne dla tej rasy szaro-błękitne umaszczenie, stojące uszy i wyrazistą minę z otwartą paszczą, co sugeruje, że jest szczęśliwy lub podekscytowany. Na szyi psa widać żółty obrożek.",
+      "visibleText": [],
+      "keywords": [
+        "pies",
+        "Australian Cattle Dog",
+        "domowe zwierzę",
+        "szczęśliwy",
+        "obroża",
+        "podłoga",
+        "pomieszczenie",
+        "szaro-błękitne umaszczenie"
+      ]
+    }
+  },
+  {
+    "file_name": "animal_4.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\animal_4.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie czarnego psa leżącego na podłodze, prawdopodobnie na wykładzinie. Zwierzę ma charakterystyczną budowę ciała przypominającą Labrador Retriever, ale w czarnej maści. Wygląda na spokojne i relaksujące się w domowym otoczeniu.",
+      "visibleText": [],
+      "keywords": [
+        "pies",
+        "czarny",
+        "domowe zwierzę",
+        "Labrador Retriever",
+        "wykładzina",
+        "spokój",
+        "domowe otoczenie"
+      ]
+    }
+  },
+  {
+    "file_name": "Bike_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\Bike_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczny jest dziecięcy trójkołowy rower reklamowy marki Arco Iris. Rower ma niebieską ramę z żółtymi elementami, takimi jak koła, siodełko i osłona pedałów. Na rowerze widoczne są również grafiki i logo marki. Rower posiada dodatkowy stabilizujący kółko z przodu oraz plastikową torbę zawieszoną na ramie.",
+      "visibleText": [
+        "Arco Iris"
+      ],
+      "keywords": [
+        "rower dziecięcy",
+        "trójkołowiec",
+        "Arco Iris",
+        "grafiki reklamowe",
+        "żółty",
+        "niebieski",
+        "stabilizator",
+        "torbka"
+      ]
+    }
+  },
+  {
+    "file_name": "car_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\car_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia samochód osobowy marki Mercedes-Benz, koloru srebrno-szarego, zaparkowany na parkingu. Widoczne są elementy takie jak logo marki na maskownicy, reflektory, zderzak oraz tablica rejestracyjna. W tle znajdują się inne samochody oraz budynki mieszkalne.",
+      "visibleText": [
+        "CEY 70623"
+      ],
+      "keywords": [
+        "Mercedes-Benz",
+        "samochód",
+        "parking",
+        "tablica rejestracyjna",
+        "CEY 70623",
+        "srebrny",
+        "reflektory",
+        "logo",
+        "budynki mieszkalne"
+      ]
+    }
+  },
+  {
+    "file_name": "car_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\car_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia czerwony samochód marki Volkswagen, model Polo, postawiony na poboczu drogi. Samochód ma kolor metalizowany z odcieniem czerwieni i jest widoczny z przodu. Na tablicy rejestracyjnej widnieje numer CA 987-090. Tło zdjęcia to zabudowania i ogrodzenie, a także fragment drogi i chodnika.",
+      "visibleText": [
+        "CA 987-090"
+      ],
+      "keywords": [
+        "Volkswagen",
+        "Polo",
+        "samochód",
+        "czerwony",
+        "tablica rejestracyjna",
+        "CA 987-090",
+        "metalizowany",
+        "pobocze",
+        "droga",
+        "zabudowania"
+      ]
+    }
+  },
+  {
+    "file_name": "car_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\car_3.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczny jest czerwony kabriolet marki BMW, zaparkowany przed budynkiem z cegły. Samochód ma otwarte dach i jest wyposażony w tablicę rejestracyjną z numerem LL13 YMW. W tle widoczne są rowery, okna budynku oraz kilka przedmiotów domowych.",
+      "visibleText": [
+        "LL13 YMW",
+        "GB"
+      ],
+      "keywords": [
+        "BMW",
+        "kabriolet",
+        "czerwony",
+        "samochód",
+        "tablica rejestracyjna",
+        "GB",
+        "budynek",
+        "rower",
+        "dach otwarty"
+      ]
+    }
+  },
+  {
+    "file_name": "clothes_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\clothes_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczna jest czerwona koszula sportowa w stylu futbolowego stroju rewanżowego z białymi akcentami i detalami. Na lewej stronie klatki piersiowej znajduje się logo w kształcie orła. Na rękawach i dolech koszuli widoczne są białe paski z czerwonymi detalami. Ubranie jest zawieszone na wieszaku.",
+      "visibleText": [],
+      "keywords": [
+        "koszula sportowa",
+        "styl futbolowy",
+        "rewanżowy",
+        "logo orła",
+        "akcesoria sportowe",
+        "ubranie sportowe",
+        "czerwono-biała kolorystyka"
+      ]
+    }
+  },
+  {
+    "file_name": "clothes_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\clothes_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia wieszak zawieszony na drzwiach, na którym wisi kilka różnych ubranek. Są to przede wszystkim kurtki i płaszcze w różnych stylach i kolorach, takich jak beżowy płaszcz, czarno-biały płaszcz z detalami, oraz płaszcz w kolorze szarym z pionowymi paskami. Po lewej stronie widać również część szafy z widocznymi chustami lub szalami.",
+      "visibleText": [],
+      "keywords": [
+        "wieszak",
+        "ubrania",
+        "kurtki",
+        "płaszcze",
+        "drzwi",
+        "szafa",
+        "szal",
+        "chusty",
+        "odzież zimowa"
+      ]
+    }
+  },
+  {
+    "file_name": "clothes_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\clothes_3.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczne są dwa męskie ubrania wiszące na wieszakach. Po lewej stronie jest jasny, płócienny garnitur w kolorze beżowo-szarym z guzikami, posiadający dwa kieszenie na piersi. Po prawej stronie znajduje się czarny, klasyczny marynarski lub elegancki garnitur z dwoma rzędami guzików i dwoma kieszeniami.",
+      "visibleText": [],
+      "keywords": [
+        "garnitur",
+        "ubrania",
+        "męskie stroje",
+        "tkanina płócienna",
+        "guziki",
+        "kieszenie",
+        "styl klasyczny",
+        "marynarski",
+        "elegancki"
+      ]
+    }
+  },
+  {
+    "file_name": "furniture_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\furniture_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczny jest czarny fotel reklinowany z tkaninową tapicerką. Fotel jest wyposażony w dwa poduszki dekoracyjne w kolorze beżowym z wzorem kwiatowym. Fotel znajduje się w pomieszczeniu z jasnymi, pastelowymi ścianami i podłogą z jasnych płyt ceramicznych.",
+      "visibleText": [],
+      "keywords": [
+        "fotel",
+        "reklinator",
+        "tapicerka",
+        "poduszki dekoracyjne",
+        "wzór kwiatowy",
+        "pompadour",
+        "wnętrze",
+        "meble",
+        "beżowy",
+        "czarny"
+      ]
+    }
+  },
+  {
+    "file_name": "furniture_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\furniture_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Fotografia przedstawia jasnozielony kanapa z tkaniną o wzorze geometrycznym w kształcie gwiazdek. Kanapa ma klasyczny wygląd z podłokietnikami i jest umieszczona na czerwonej, gładkiej posadzce z płytkami. W tle widoczna jest część pomieszczenia z białymi ścianami, kilkoma obrazami wiszącymi na ścianie oraz częścią rośliny doniczkowej i niewielkim stolikiem. Na kanapie znajdują się dwa poduszki w kolorze beżowym, które również posiadają podobny wzór geometryczny.",
+      "visibleText": [],
+      "keywords": [
+        "kanapa",
+        "wzór geometryczny",
+        "gwiazdki",
+        "tkanina",
+        "podłokietniki",
+        "płytki ceramiczne",
+        "pomieszczenie",
+        "ściana",
+        "obraz",
+        "roślina doniczkowa",
+        "meble",
+        "wnętrze",
+        "beżowy",
+        "jasnozielony"
+      ]
+    }
+  },
+  {
+    "file_name": "house_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\house_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia niewielki, jednorodzinny dom jednorodzielny, wykonany z jasnego materiału, przypominającego tynk lub beton. Budynek ma prosty, skromny projekt z dwiema oknami i jednymi drzwiami wejściowymi. Numer domu widoczny na elewacji to 18967. Przy domu znajduje się garaż na jedno auto, w którym stoi ciemny samochód osobowy. W tle widoczne są inne podobne domy oraz słupy energetyczne i linie elektryczne. Na prawo od domu widać pranie wiszące na linie.",
+      "visibleText": [
+        "18967",
+        "CEY 45050"
+      ],
+      "keywords": [
+        "dom jednorodzinny",
+        "tynk",
+        "beton",
+        "garaż",
+        "samochód",
+        "CEY 45050",
+        "pranie",
+        "słupy energetyczne",
+        "linia elektryczna",
+        "skromna architektura",
+        "okna",
+        "drzwi"
+      ]
+    }
+  },
+  {
+    "file_name": "house_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\house_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Obraz przedstawia dwukondygnacyjny dom jednorodzinny o białej elewacji z czerwonymi akcentami. Budynek posiada balkon na piętrze z metalową balustradą, a na parterze widoczne są okna z roletami, drzwi wejściowe oraz garażowe. Przed domem znajduje się trawnik, krzewy i niewielka ogrodzona przestrzeń z meblami ogrodowymi. Obok domu stoi czerwony samochód osobowy. Budynek sąsiaduje z innym, podobnym domem z lewej strony.",
+      "visibleText": [],
+      "keywords": [
+        "dom jednorodzinny",
+        "balkon",
+        "elewacja",
+        "meble ogrodowe",
+        "samochód osobowy",
+        "kondygnacja",
+        "rolety",
+        "drzwi garażowe",
+        "trawnik",
+        "architektura mieszkaniowa"
+      ]
+    }
+  },
+  {
+    "file_name": "house_3.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\house_3.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Obraz przedstawia dwukondygnacyjny dom jednorodzinny z elewacją w kolorze beżowym i brązowymi detalami. Budynek posiada taras z balustradą na piętrze, a na parterze widoczna jest łukowa struktura nad wejściem. Dom otoczony jest zielonymi krzewami, a przed wejściem znajduje się garażowy wjazd z zamontowanym numerem 585 na bramy.",
+      "visibleText": [
+        "585"
+      ],
+      "keywords": [
+        "dom jednorodzinny",
+        "taras",
+        "elewacja beżowa",
+        "bramy wjazdowe",
+        "krzewy",
+        "architektura współczesna",
+        "łukowe wejście",
+        "garaż"
+      ]
+    }
+  },
+  {
+    "file_name": "house_4.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\house_4.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Obraz przedstawia nowoczesny, dwukondygnacyjny dom jednorodzinny z elewacją w dwóch kolorach: białym i szarym. Budynek posiada duże, czarne ramy okienne i drzwiowe, a także charakterystyczny, stromy dach z czarnymi krawędziami. Wokół domu widoczna jest niewielka, ale zadbana zieleń, w tym krzewy i młode drzewko. Na dole zdjęcia widać fragment podjazdu oraz sąsiednie domy o podobnym stylu architektonicznym.",
+      "visibleText": [],
+      "keywords": [
+        "dom jednorodzinny",
+        "architektura nowoczesna",
+        "elewacja dwukolorowa",
+        "duże okna",
+        "czarne ramy okienne",
+        "stromy dach",
+        "zadbany ogród",
+        "podjazd",
+        "sąsiedztwo",
+        "betonowe ogrodzenie"
+      ]
+    }
+  },
+  {
+    "file_name": "toy_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\toy_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczny jest duży pluszowy miś siedzący na biurku w recepcji. Tło sugeruje, że miejsce to może być związane z jakąś uroczystością lub wydarzeniem kulturalnym. Na biurku znajduje się również podkładka z częściowo widocznym obrazkiem i napisem 'Reception' oraz fragmentem tekstu o ślubie.",
+      "visibleText": [
+        "Reception",
+        "TOGETHER WITH HIS FAMILY, MR & MRS VINAYAK PANJABI"
+      ],
+      "keywords": [
+        "miś",
+        "pluszowy",
+        "recepcja",
+        "uroczystość",
+        "biurko",
+        "ślub",
+        "dekoracja",
+        "wydarzenie"
+      ]
+    }
+  },
+  {
+    "file_name": "toy_2.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\toy_2.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Na zdjęciu widoczny jest pluszowy misiek siedzący na krzesełku lub kanapie. Misiek ma na sobie różową koszulkę z nadrukiem. W tle widać fragmenty tkanin, takich jak zasłona lub obrus z wzorem, oraz fragmenty ubrania wiszącego na wieszaku.",
+      "visibleText": [
+        "Seni",
+        "Ciao",
+        "vivorami"
+      ],
+      "keywords": [
+        "pluszowy misiek",
+        "koszulka",
+        "wzorzysta tkanina",
+        "wieszak",
+        "domowy akcesorium",
+        "tekst na ubraniu"
+      ]
+    }
+  },
+  {
+    "file_name": "Water_sink_1.jpg",
+    "full_path": "C:\\Users\\mateu\\Desktop\\Zbiór_danych\\photos\\Water_sink_1.jpg",
+    "analysis": {
+      "type": "photo",
+      "summary": "Zdjęcie przedstawia kran z metalicznym, łukowym wygięciem, z którego płynie strumień wody. Tło zdjęcia ukazuje część kuchni z widocznymi szafkami o drzwiach z przezroczystymi szklanymi wstawkami i metalowymi rączkami. Na blacie widoczne są części przedmiotów, takich jak szklane naczynia i inne przedmioty kuchenne.",
+      "visibleText": [],
+      "keywords": [
+        "kran",
+        "kuchnia",
+        "woda",
+        "blat",
+        "szafki kuchenne",
+        "metaliczny",
+        "szklane wstawki",
+        "kuchenne akcesoria"
+      ]
+    }
+  }
+]

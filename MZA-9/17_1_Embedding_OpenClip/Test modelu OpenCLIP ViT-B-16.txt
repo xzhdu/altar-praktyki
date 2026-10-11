@@ -1,0 +1,4 @@
+Test modelu OpenCLIP ViT-B-16
+Wymiar embeddingu: 512
+Wielkość modelu: 570.76 MB
+Zużycie pamięci RAM programu: 938.25 MB

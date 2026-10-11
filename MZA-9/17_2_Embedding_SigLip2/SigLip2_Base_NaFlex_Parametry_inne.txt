@@ -1,0 +1,4 @@
+Model: SigLip2_Base (NaFlex)
+Zużycie pamięci RAM: 1338.19 MB
+Wymiar wektora (embedding dim): 768
+Rozmiar modelu: 375.23 M parametrów (1431.40 MB)
