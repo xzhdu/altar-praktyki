@@ -1,0 +1,20 @@
+
+**/qdrant_db/
+**/qdrant_db_wo_pdf/
+**/.lock
+**/meta.json
+
+# Pliki środowiska i konfiguracji
+.env
+.venv/
+venv/
+
+# Tymczasowe pliki Pythona i IDE
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Pliki testowe i logi
+test
+*.log

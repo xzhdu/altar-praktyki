@@ -1,0 +1,21 @@
+[project]
+name = "21-test-mistralai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "MateuszSiodlak1", email = "mateuszx2008@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mistralai>=3.2.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+21-test-mistralai = "21_test_mistralai:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13.0"]
+build-backend = "uv_build"

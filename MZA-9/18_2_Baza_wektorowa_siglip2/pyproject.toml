@@ -1,5 +1,5 @@
 [project]
-name = "praktyki-altar"
+name = "18-2-baza-wektorowa-siglip2"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -7,10 +7,16 @@ authors = [
     { name = "MateuszSiodlak1", email = "mateuszx2008@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pillow>=13.0.0",
+    "pymupdf>=1.28.2",
+    "qdrant-client>=1.19.1",
+    "torch>=2.14.1",
+    "transformers>=5.20.1",
+]
 
 [project.scripts]
-praktyki-altar = "praktyki_altar:main"
+18-2-baza-wektorowa-siglip2 = "18_2_baza_wektorowa_siglip2:main"
 
 [build-system]
 requires = ["uv_build>=0.12.6,<0.13.0"]

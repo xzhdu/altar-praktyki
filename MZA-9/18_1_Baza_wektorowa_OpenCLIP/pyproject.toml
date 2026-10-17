@@ -1,0 +1,23 @@
+[project]
+name = "18-1-baza-wektorowa-openclip"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "MateuszSiodlak1", email = "mateuszx2008@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "open-clip-torch>=3.3.0",
+    "pillow>=13.0.0",
+    "pypdfium2>=5.14.0",
+    "qdrant-client>=1.19.1",
+    "torch>=2.14.1",
+]
+
+[project.scripts]
+18-1-baza-wektorowa-openclip = "18_1_baza_wektorowa_openclip:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13.0"]
+build-backend = "uv_build"

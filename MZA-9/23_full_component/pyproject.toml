@@ -9,8 +9,8 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "open-clip-torch>=3.3.0",
-    "pillow>=12.3.0",
-    "torch>=2.13.0",
+    "pillow>=13.0.0",
+    "torch>=2.14.1",
 ]
 
 [project.scripts]

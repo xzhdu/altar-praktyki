@@ -1,7 +1,7 @@
 import logging
 import time
 from PIL import Image
-from pathlib import Path, ROOT_DIR
+from pathlib import Path
 from component import (
     EmbeddingComponent,
     EmbeddingError,
