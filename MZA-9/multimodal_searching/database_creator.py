@@ -149,7 +149,7 @@ def index_directory(
 
 
 if __name__ == "__main__":
-    client = QdrantClient(path="./qdrant_db")
+    client = QdrantClient(path=r"C:\Users\mateu\Desktop\Praktyki_altar\qdrant_db")
     embedder_comp = EmbeddingComponent(allow_cloud=False)
     data_directory = Path(r"C:\Users\mateu\Desktop\Zbior_danych")
 

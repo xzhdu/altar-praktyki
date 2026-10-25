@@ -109,12 +109,24 @@ def print_search_results(results: Dict[str, List[Dict[str, Any]]], query: str):
 
 
 if __name__ == "__main__":
-    qdrant_path = "./qdrant_db"
-    if not Path(qdrant_path).exists():
-        logger.error("Najpierw uruchom database_creator.py!")
-        exit(1)
+    qdrant_path = Path(__file__).resolve().parents[1] / "qdrant_db"
+    if not qdrant_path.is_dir():
+        raise FileNotFoundError(f"Nie znaleziono lokalnej bazy Qdrant: {qdrant_path}")
 
     client = QdrantClient(path=qdrant_path)
+    required_collections = {COLLECTION_DOCUMENTS, COLLECTION_IMAGES}
+    available_collections = {
+        collection.name for collection in client.get_collections().collections
+    }
+    missing_collections = required_collections - available_collections
+    if missing_collections:
+        client.close()
+        raise RuntimeError(
+            "W bazie Qdrant brakuje kolekcji: "
+            f"{', '.join(sorted(missing_collections))}. "
+            f"Dostępne kolekcje: {', '.join(sorted(available_collections)) or '(brak)'}"
+        )
+
     embedder = EmbeddingComponent(allow_cloud=False)
 
     while True:
