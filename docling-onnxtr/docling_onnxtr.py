@@ -18,7 +18,7 @@ from docling.document_converter import (
 )
 from docling_ocr_onnxtr import OnnxtrOcrOptions
 
-from components.embedding.component import EmbeddingComponent
+from component import EmbeddingComponent
 
 # Configure logging
 logging.basicConfig(
@@ -53,19 +53,8 @@ def should_use_ocr(
     min_chars_per_page: int = 50,
     min_text_page_ratio: float = 0.5,
 ) -> PdfOcrAnalysisResult:
-    """
-    Determine if a document requires OCR processing based on its digital text layer.
-
-    Parameters:
-    - input_path: Path to the input PDF or image file.
-    - ocr_mode: OCR mode - 'auto' (detect based on text layer), 'force' (always OCR), 'never' (disable OCR).
-    - min_chars_per_page: Minimum non-whitespace characters on a page to consider it having digital text.
-    - min_text_page_ratio: Ratio of pages that must have digital text to classify the document as digital (bypassing OCR).
-
-    Returns:
-    - PdfOcrAnalysisResult with detailed analysis and the final OCR decision.
-    """
-    path = Path(input_path)
+    # Użycie resolved path, aby uniknąć błędów ze znakami specjalnymi na Windows
+    path = Path(input_path).resolve()
     ocr_mode_lower = (ocr_mode or "auto").strip().lower()
 
     if ocr_mode_lower in ("force", "always", "true", "1"):
@@ -81,7 +70,6 @@ def should_use_ocr(
             ocr_mode=ocr_mode_lower,
         )
 
-    # For image file extensions, OCR is always required
     if path.suffix.lower() in IMAGE_EXTENSIONS:
         return PdfOcrAnalysisResult(
             needs_ocr=True,
@@ -89,16 +77,16 @@ def should_use_ocr(
             ocr_mode=ocr_mode_lower,
         )
 
-    # For PDF files, inspect the text layer with pypdfium2
     if path.suffix.lower() == ".pdf":
+        pdf = None
         try:
             import pypdfium2 as pdfium
 
-            pdf = pdfium.PdfDocument(path)
+            # Otwarcie dokumentu PDF
+            pdf = pdfium.PdfDocument(str(path))
             total_pages = len(pdf)
 
             if total_pages == 0:
-                pdf.close()
                 return PdfOcrAnalysisResult(
                     needs_ocr=False,
                     reason="Document has 0 pages (empty PDF)",
@@ -118,18 +106,19 @@ def should_use_ocr(
                 if non_ws_count >= min_chars_per_page:
                     pages_with_text += 1
 
-            pdf.close()
-
             text_page_ratio = pages_with_text / total_pages if total_pages > 0 else 0.0
             avg_chars = total_chars / total_pages if total_pages > 0 else 0.0
+
+            # KLUCZOWE: Zamykamy plik od razu po odczytaniu danych!
+            pdf.close()
+            pdf = None
 
             if text_page_ratio >= min_text_page_ratio:
                 return PdfOcrAnalysisResult(
                     needs_ocr=False,
                     reason=(
                         f"Digital text layer detected: {pages_with_text}/{total_pages} pages "
-                        f"({text_page_ratio * 100:.1f}%) have >= {min_chars_per_page} chars "
-                        f"(avg {avg_chars:.0f} chars/page). OCR bypassed."
+                        f"({text_page_ratio * 100:.1f}%) have >= {min_chars_per_page} chars. OCR bypassed."
                     ),
                     total_pages=total_pages,
                     text_pages_count=pages_with_text,
@@ -141,11 +130,7 @@ def should_use_ocr(
             else:
                 return PdfOcrAnalysisResult(
                     needs_ocr=True,
-                    reason=(
-                        f"Scanned / low-text PDF detected: only {pages_with_text}/{total_pages} pages "
-                        f"({text_page_ratio * 100:.1f}%) have >= {min_chars_per_page} chars "
-                        f"(avg {avg_chars:.0f} chars/page). OCR is required."
-                    ),
+                    reason=f"Scanned / low-text PDF detected. OCR is required.",
                     total_pages=total_pages,
                     text_pages_count=pages_with_text,
                     total_chars=total_chars,
@@ -154,22 +139,25 @@ def should_use_ocr(
                     ocr_mode=ocr_mode_lower,
                 )
         except Exception as exc:
-            logger.warning(
-                f"Failed to inspect PDF text layer with pypdfium2: {exc}. Falling back to OCR."
-            )
+            logger.warning(f"Inspection failed ({exc}), falling back to OCR.")
             return PdfOcrAnalysisResult(
                 needs_ocr=True,
                 reason=f"Inspection failed ({exc}), falling back to OCR",
                 ocr_mode=ocr_mode_lower,
             )
+        finally:
+            # Gwarancja zwolnienia blokady pliku w pamięci
+            if pdf is not None:
+                try:
+                    pdf.close()
+                except Exception:
+                    pass
 
-    # For unknown extensions, fallback to OCR
     return PdfOcrAnalysisResult(
         needs_ocr=True,
-        reason=f"Unsupported / generic format ({path.suffix}), defaulting to OCR",
+        reason=f"Unsupported format ({path.suffix}), defaulting to OCR",
         ocr_mode=ocr_mode_lower,
     )
-
 
 def create_document_converter(
     do_ocr: bool = True,
@@ -301,20 +289,14 @@ def process_document(
     force_full_page_ocr: bool = False,
     embedder: Optional[EmbeddingComponent] = None,
 ) -> Tuple[DoclingDocument, List[Dict[str, Any]]]:
-    """
-    Process a document with Docling:
-    1. Determine whether OCR is required (via auto-detection or specified mode).
-    2. Convert the document using Docling (with OnnxTR OCR if required, or native text extraction).
-    3. Chunk the document using HybridChunker and generate text embeddings.
-    4. Save the embedded chunks with accurate OCR metadata to a JSON file.
-    """
-    input_file = Path(input_path)
+
+    # Zawsze przekazujemy absolutną, rozwiązaną ścieżkę
+    input_file = Path(input_path).resolve()
     if not input_file.exists():
         raise FileNotFoundError(f"Document not found: {input_file}")
 
     file_id = input_file.name
 
-    # Determine if OCR is required
     ocr_analysis = should_use_ocr(
         input_path=input_file,
         ocr_mode=ocr_mode,
@@ -322,25 +304,15 @@ def process_document(
         min_text_page_ratio=min_text_page_ratio,
     )
     do_ocr = ocr_analysis.needs_ocr
-    logger.info(
-        f"OCR Decision for '{file_id}': do_ocr={do_ocr} | Reason: {ocr_analysis.reason}"
-    )
-
-    if do_ocr:
-        logger.info(f"Converting document '{input_file}' with Docling + OnnxTR OCR...")
-    else:
-        logger.info(
-            f"Converting document '{input_file}' with Docling (Native text layer, OCR bypassed)..."
-        )
 
     converter = create_document_converter(
         do_ocr=do_ocr,
         force_full_page_ocr=force_full_page_ocr,
     )
-    conv_res = converter.convert(input_file)
+    
+    conv_res = converter.convert(str(input_file))
     doc: DoclingDocument = conv_res.document
 
-    logger.info("Chunking document and generating OpenCLIP embeddings...")
     chunks = chunk_and_embed_document(
         doc=doc,
         file_id=file_id,
@@ -354,11 +326,15 @@ def process_document(
         if out_file.is_dir():
             out_file = out_file / f"{input_file.stem}.chunks.json"
         save_chunks_to_json(chunks, out_file)
-        logger.info(f"Saved {len(chunks)} chunks to: {out_file}")
 
     return doc, chunks
-
-
+"""
+    Process a document with Docling:
+    1. Determine whether OCR is required (via auto-detection or specified mode).
+    2. Convert the document using Docling (with OnnxTR OCR if required, or native text extraction).
+    3. Chunk the document using HybridChunker and generate text embeddings.
+    4. Save the embedded chunks with accurate OCR metadata to a JSON file.
+"""
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Process documents with Docling, automatic OnnxTR OCR detection, and OpenCLIP embeddings."
